@@ -1,0 +1,14 @@
+artifact_uri: /home/santosh/Desktop/Titanic/mlruns/0/7586b23032bc42aab9b6c08e57fe7c9e/artifacts
+end_time: null
+entry_point_name: null
+experiment_id: 0
+lifecycle_stage: active
+name: ''
+run_uuid: 7586b23032bc42aab9b6c08e57fe7c9e
+source_name: TitanicMLFLOW.py
+source_type: 4
+source_version: null
+start_time: 1538975179028
+status: 1
+tags: []
+user_id: santosh
